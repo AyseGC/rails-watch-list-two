@@ -2,4 +2,3 @@
 import "@hotwired/turbo-rails";
 import "./controllers";
 import "bootstrap";
-rails generate model Subcategory name:string category:references
